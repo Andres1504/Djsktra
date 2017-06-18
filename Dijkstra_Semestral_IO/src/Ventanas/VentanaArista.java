@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 
 package Ventanas;
 
@@ -11,10 +7,7 @@ import Clases.Pintar;
 import java.awt.Frame;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Eduardo
- */
+
 public class VentanaArista extends javax.swing.JFrame {
 
 	/**
